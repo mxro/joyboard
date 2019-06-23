@@ -24,16 +24,6 @@
     "url": "https://github.com/mxro/joyboard/issues"
   },
   "homepage": "https://github.com/mxro/joyboard#readme",
-  "devDependencies": {
-    "@babel/core": "^7.4.5",
-    "@storybook/addon-actions": "^5.1.8",
-    "@storybook/addon-links": "^5.1.8",
-    "@storybook/cli": "^5.1.8",
-    "@storybook/react": "^5.1.8",
-    "babel-loader": "^8.0.6",
-    "react": "^16.8.6",
-    "storybook": "^1.0.0",
-    "yarn": "^1.16.0"
-  },
+  
   "dependencies": {}
 }
